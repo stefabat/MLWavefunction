@@ -1,2 +1,3 @@
 # Machine Learning Wavefunction
-Case studies for the machine leatning wavefunction chapter
+Case studies material for the machine learning wavefunction chapter.
+Download the jupyter notebooks and follow the instructions in the chpater.
